@@ -47,5 +47,5 @@ if __name__ == '__main__':
 ```
 
 
-## Creadit
+## Credit
 The library is inspired by [Ge0rg3's](https://github.com/Ge0rg3) [requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator), which is based on [IPRotate_Burp_Extension](https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension) developed by [RhinoSecurityLabs](https://github.com/RhinoSecurityLabs).
